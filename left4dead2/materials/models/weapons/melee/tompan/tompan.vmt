@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$baseTexture "models\weapons\melee/TomPan/TomPan"
+	$phong 1
+	$phongboost "1"
+	$phongexponent 1
+	$phongtint "[.85 .85 1]"
+	$halflambert 0
+	$phongfresnelranges "[.3 .65 30]"
+	$ambientocclusion 1
+
+
+
+	$diffuseexp "1"
+}
