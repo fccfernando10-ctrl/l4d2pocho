@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/warnerbros/mutliverse/tom/eyeball_reference"
+	"$nocull" 1
+	"$nodecal" 1
+}
