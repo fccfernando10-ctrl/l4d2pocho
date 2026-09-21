@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/warnerbros/multiverse/tom/TomBase_MIC"
-	"$bumpmap" "models/warnerbros/multiverse/tom/bump_flat"
-	"$nocull" 1
-	"$nodecal" 1
-}
